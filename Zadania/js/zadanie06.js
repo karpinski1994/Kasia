@@ -20,7 +20,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 html = shoppingList.children[1].cloneNode(true);
                 shoppingList.appendChild(html);
             }
-        
     });
 });
 

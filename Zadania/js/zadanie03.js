@@ -8,7 +8,7 @@ function bigestSumOfTwoElements(array) {
     var largestSecond = 0;
 
     if (array.length === 0 ) {
-        returnedValue = false;          
+        returnedValue = false;
     } else if (array.length === 1) {
         returnedValue = array[0];
     } else {
